@@ -10,4 +10,4 @@ Required to be installed on system
 GIT and NodeJS
 ```
 ## To run test
-Simply clone repository, navigate to `test` folder, then double click `StringSplosionSpec.html` to run test.
+Simply clone repository, navigate to `test` folder, then double click `SpecRunner.html` to run test.
